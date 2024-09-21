@@ -7,7 +7,7 @@ A simple web-based Tic Tac Toe game built using HTML, CSS, and JavaScript.
 ## Features
 - Play against another player locally
 - Interactive user interface with a clean and responsive design
-- Displays game result (win/draw)
+- Displays game result (win/lose)
 - Option to reset the game
 
 ## How to Play
